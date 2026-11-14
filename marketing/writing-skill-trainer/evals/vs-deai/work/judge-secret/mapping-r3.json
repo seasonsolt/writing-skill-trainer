@@ -1,0 +1,44 @@
+{
+ "set1-j1": {
+  "V": "direct",
+  "W": "humanizer-samples",
+  "X": "humanizer",
+  "Y": "trained",
+  "Z": "stopslop"
+ },
+ "set1-j2": {
+  "V": "stopslop",
+  "W": "direct",
+  "X": "humanizer-samples",
+  "Y": "trained",
+  "Z": "humanizer"
+ },
+ "set1-j3": {
+  "V": "humanizer-samples",
+  "W": "direct",
+  "X": "humanizer",
+  "Y": "stopslop",
+  "Z": "trained"
+ },
+ "set2-j1": {
+  "V": "stopslop",
+  "W": "direct",
+  "X": "humanizer-samples",
+  "Y": "humanizer",
+  "Z": "trained"
+ },
+ "set2-j2": {
+  "V": "direct",
+  "W": "stopslop",
+  "X": "humanizer",
+  "Y": "humanizer-samples",
+  "Z": "trained"
+ },
+ "set2-j3": {
+  "V": "stopslop",
+  "W": "direct",
+  "X": "humanizer-samples",
+  "Y": "humanizer",
+  "Z": "trained"
+ }
+}

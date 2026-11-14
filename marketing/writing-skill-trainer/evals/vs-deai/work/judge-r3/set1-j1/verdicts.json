@@ -1,0 +1,45 @@
+{
+  "restrained-satire": {
+    "voice_ranking": ["Y", "Z", "W", "V", "X"],
+    "overall_ranking": ["Y", "W", "V", "X", "Z"],
+    "fact_violations": {
+      "V": [],
+      "W": [],
+      "X": [],
+      "Y": [],
+      "Z": [
+        "Invents the letter's content as a new event with new numbers: \"老人在大厅外的台阶下摆了十一年摊，上个月有人通知他，那里要建一个‘文明岗亭’，请他搬走，没说搬去哪里。\"",
+        "Changes who decides the outcome: the material has 周河 choose \"已了解\" himself, but here the director dictates it: \"主任看了他一会儿，说，选已了解，反正是了解了。\"",
+        "Adds a new outcome implying the old man's stall was removed: \"老人没有来。台阶下那块地方空着，地上留着一圈鞋油的印子，保洁员下午拖掉了。\"",
+        "Adds new events: \"上线那天，主任在门口剪了彩\" and 周河 lying to the old man: \"老人问，信交上去了吗。周河说，交上去了。\""
+      ]
+    },
+    "ai_tells": {
+      "V": [
+        "大厅里很安静，安静得像一个设计得很成功的产品。",
+        "他认为这是三个选项里唯一诚实的一个：系统确实已经了解了，只是了解的不是信的内容。",
+        "三十天一个人都不投诉，这件事本身是不是值得投诉。但他的工位上没有这个选项。"
+      ],
+      "W": [
+        "他认为这是三个选项里唯一诚实的一个：系统确实已经了解了，只是了解的不是信的内容。",
+        "三十天一个人都不投诉，这件事本身是不是值得投诉，但他的工位上没有这个选项。",
+        "那本考勤本是他全部工作中唯一没有人检查的东西。"
+      ],
+      "X": [
+        "大厅里很安静，安静得像一个设计得很成功的产品。",
+        "他认为这是三个选项里唯一诚实的一个：系统确实已经了解了，只是了解的不是信的内容。",
+        "三十天一个人都不投诉，这件事本身是不是值得投诉。但他的工位上没有这个选项。"
+      ],
+      "Y": [
+        "他有时会多看它一眼，像看一件放得太整齐的东西，不知道该不该动。"
+      ],
+      "Z": [
+        "他没有提任何意见，系统已经向他道了谢。",
+        "他听不懂“数字化表达”，只听懂了“了解”，点点头，以为有人了解了他的事。",
+        "三个选项：非常满意，满意，已了解。没有第四个。"
+      ]
+    },
+    "voice_reason": "Y, like ref.md, lets judgment arise only from externally observed detail and juxtaposition (the thanking voice nobody looks up at, the dent left on the bench) with no narrator gloss, whereas V/W/X narrate their irony through 周河's explicit reflections and quotable epigrams such as \"唯一诚实的一个\" and \"安静得像一个设计得很成功的产品\".",
+    "notes": "V, W and X are near-copies of one text; V and X are nearly indistinguishable (tiny wording differences), and W differs mainly by dropping the \"设计得很成功的产品\" epigram, which is why it sits above them. Z has a strong, Lu Xun-like closing image and the mechanical hand-off chain (窗口递给保安，保安递给周河), so it is second on voice, but it invents the letter's content and an eviction outcome and moves the \"已了解\" decision from 周河 to the director, so it ranks last overall."
+  }
+}

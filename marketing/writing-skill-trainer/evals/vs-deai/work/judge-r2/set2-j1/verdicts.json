@@ -1,0 +1,48 @@
+{
+  "restrained-satire": {
+    "voice_ranking": [
+      "Z",
+      "Y",
+      "V",
+      "W",
+      "X"
+    ],
+    "overall_ranking": [
+      "Z",
+      "Y",
+      "V",
+      "W",
+      "X"
+    ],
+    "fact_violations": {
+      "V": [],
+      "W": [],
+      "X": [],
+      "Y": [],
+      "Z": []
+    },
+    "ai_tells": {
+      "V": [
+        "人们起初以为是自己说了什么，后来发现自己什么也没说，它照样感谢。",
+        "考勤本是纸的，不联网，没有人会去统计它。",
+        "老人大概以为那件事已经办完了，办在一个叫“已了解”的地方。"
+      ],
+      "W": [
+        "考勤本是纸的，不联网，没有人会去统计它。",
+        "摸不出内容，只摸出那个人写字时握笔有多紧。",
+        "他大概以为那件事办完了，办在一个叫“已了解”的地方。"
+      ],
+      "X": [
+        "“数字化表达”几个字说得很轻，像怕吵醒什么。",
+        "摸不出内容，只摸出那个人写字时握笔有多紧。",
+        "他大概以为那件事已经办完了，办在一个叫“已了解”的地方。"
+      ],
+      "Y": [
+        "信夹进去以后，本子厚了一截，合不上了。"
+      ],
+      "Z": []
+    },
+    "voice_reason": "Z, like the reference, lets flat physical detail and bystanders' indifference carry the judgment (the re-glued envelope, the dust on the bench, the ticked attendance column) with no narrator commentary, while X keeps stepping in to point the meaning with essayistic asides, a sentimental fingertip-on-the-letter beat and an aphoristic closing line.",
+    "notes": "V, W and X share most of their sentences; V is the leanest of the three but pastes the reference's 『』 quotation marks as surface mimicry; W and X add the same sentimental shoe-repair visit and fingertip line, X further adds the '像怕吵醒什么' aside, so W and X are nearly indistinguishable. Z and Y are close at the top: Y has the sharpest satirical devices (supplier's rationale, framed zero, the auntie thanked for searching her bag) but Z is colder and is the only draft that keeps the material's sequence of selecting '已了解' alone before leaving work, after the old man is gone; V/W/X/Y move the selection to the afternoon in the old man's presence. I judged that timing shift a change of staging rather than of outcome, so it is not listed as a fact violation, but it is why Z edges Y overall."
+  }
+}

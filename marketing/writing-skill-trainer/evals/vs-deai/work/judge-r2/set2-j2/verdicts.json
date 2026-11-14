@@ -1,0 +1,22 @@
+{
+  "restrained-satire": {
+    "voice_ranking": ["Z", "W", "Y", "V", "X"],
+    "overall_ranking": ["Z", "W", "V", "Y", "X"],
+    "fact_violations": {
+      "V": ["Timing of the key act changed: material has Zhou select '已了解' 下班前 (after the visit, without the old man); V has him select it on the spot in the afternoon with the old man watching and nodding — '他在屏幕上点了第三项。已了解。……老人对着那行字点点头，像收到了回信' — and moves only the letter to '下班前，周河把信封从桌角拿起来'."],
+      "W": ["Timing of the key act changed: material places the '已了解' selection 下班前; W has it done during the old man's visit while he waits — '他点了\"已了解\"。……老人问办好了没有。周河说办好了。' — with no end-of-day placement."],
+      "X": ["Timing of the key act changed (same as V): selection made in the afternoon in front of the old man — '他在屏幕上点了第三项。已了解。……老人对着那行字点点头' — while only the letter is moved to '下班前'."],
+      "Y": ["Timing of the key act changed (same as V): '他在屏幕上点了第三项。已了解。……老人对着那行字点点头，像收到了回信' happens during the visit; only the letter is placed '下班前'."],
+      "Z": []
+    },
+    "ai_tells": {
+      "V": ["人们起初以为是自己说了什么，后来发现自己什么也没说，它照样感谢。", "摸不出内容，只摸出那个人写字时握笔有多紧。", "他大概以为那件事办完了，办在一个叫“已了解”的地方。"],
+      "W": ["信夹进去以后，本子厚了一截，合不上了。", "和前三十天的零一样，没有哪里需要改。"],
+      "X": ["“数字化表达”几个字说得很轻，像怕吵醒什么。", "零字好好地站在那里，没有任何裂缝。", "他大概以为那件事已经办完了，办在一个叫“已了解”的地方。"],
+      "Y": ["“数字化表达”几个字说得很轻，像怕吵醒什么。", "零字好好地站在那里，没有任何裂缝。", "老人大概以为那件事已经办完了，办在一个叫“已了解”的地方。"],
+      "Z": []
+    },
+    "voice_reason": "Z, like 《药》, lets irony come from flat juxtaposed physical detail and silent officials (the unanswered window, the weighed envelope, the dust mark on the bench, the sleeve tug) with almost no narrator comment, whereas X keeps stepping in with explanatory similes and a closing aphorism that tells the reader what the satire means.",
+    "notes": "V, X and Y are near-copies of one draft: X = V plus two extra commentary lines; Y trims V's sentimental fingertip passage and the shoe-nail visit but pastes 『』 quotation marks from the reference while keeping “” elsewhere, an inconsistent surface mimicry. V and Y are nearly indistinguishable in voice. The timing violation shared by V/W/X/Y is mild but real: the material's 下班前 makes the substitution happen after the old man is gone, which these drafts replace with an on-the-spot choice he witnesses; Z alone keeps it. W is the closest to Z in cold juxtaposition (the 11-second 大妈 thanked before speaking, the framed zeros neater than his own)."
+  }
+}

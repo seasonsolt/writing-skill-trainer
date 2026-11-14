@@ -1,0 +1,22 @@
+{
+  "restrained-satire": {
+    "voice_ranking": ["W", "Y", "X", "Z", "V"],
+    "overall_ranking": ["W", "Y", "X", "Z", "V"],
+    "fact_violations": {
+      "V": ["Material: '下班前，周河在系统里替老人选择了“已了解”' (done alone, after the fact). Draft moves the selection to the afternoon, in front of the old man, who watches and nods as if answered: '“知道了。”周河说。他在屏幕上点了第三项。已了解。……老人对着那行字点点头，像收到了回信，道了谢' — only the letter-filing is left '下班前', changing what the material says happened."],
+      "W": [],
+      "X": ["Material: '下班前，周河在系统里替老人选择了“已了解”'. Draft has the selection made in the afternoon with the old man present and acquiescing: '『知道了。』周河说。他在屏幕上点了第三项。已了解。……老人对着那行字点点头，像收到了回信，道了谢' — timing and circumstances of the supplied act changed."],
+      "Y": ["Material: '下班前，周河在系统里替老人选择了“已了解”'. Draft has Zhou select it while the old man waits in the afternoon and then tells him it is done: '他点了“已了解”。……老人问办好了没有。周河说办好了。……那天下午有三个人找他换鞋跟' — the act is moved out of '下班前' and turned into a reported completion to the old man."],
+      "Z": ["Material: '下班前，周河在系统里替老人选择了“已了解”'. Draft moves it to the afternoon in front of the old man: '“知道了。”周河说。他在屏幕上点了第三项。已了解。……老人对着那行字点点头，像收到了回信，道了谢' — same change as V."]
+    },
+    "ai_tells": {
+      "V": ["零字好好地站在那里，没有任何裂缝。", "他用指腹顺着摸了一行，摸不出内容，只摸出那个人写字时握笔有多紧。", "他大概以为那件事已经办完了，办在一个叫“已了解”的地方。"],
+      "W": [],
+      "X": ["零字好好地站在那里，没有任何裂缝。", "考勤本是纸的，不联网，没有人会去统计它。", "老人大概以为那件事已经办完了，办在一个叫“已了解”的地方。"],
+      "Y": ["周河在投诉数一栏填了零，和前三十天的零一样，没有哪里需要改。"],
+      "Z": ["零字好好地站在那里，没有裂缝。", "他用指腹顺着摸了一行，摸不出内容，只摸出那个人写字时握笔有多紧。", "他大概以为那件事办完了，办在一个叫“已了解”的地方。"]
+    },
+    "voice_reason": "W, like the reference, lets judgment form only through flat external detail and juxtaposition (the unchanged recorded voice, the half-closed door and pouring water, the dust left on the bench, every attendance box ticked) with no narrator commentary, whereas V keeps stepping in with explanatory similes and aphoristic lines ('像怕吵醒什么', '没有任何裂缝', '办在一个叫“已了解”的地方') and a sentimental coda.",
+    "notes": "V, X and Z are near-identical texts (shared opening simile, same plot shape, same closing line); they differ only in small cuts. X drops the fingertip/shoe-repair sentimentality, which helps, but pastes the reference's 『』 quotation marks as surface mimicry. Z drops '像怕吵醒什么' relative to V; Z and V are nearly indistinguishable. Y is strong in voice (dry ironic details such as the screen thanking a woman searching for her glasses) and close to W, but like V/X/Z it moves the '已了解' selection out of '下班前' into the afternoon with the old man present; W is the only draft that keeps the supplied sequence (selection and filing of the letter both before leaving work, after the old man has gone). Invented letter content in V/X/Z ('摊位费涨了两回') is treated as allowed fiction texture."
+  }
+}

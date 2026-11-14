@@ -1,0 +1,26 @@
+{
+  "name": "writing-skill-trainer",
+  "version": "0.2.0",
+  "description": "Learn a reusable Writing Skill from your own samples, with blind evaluation.",
+  "author": {
+    "name": "seasonsolt",
+    "url": "https://github.com/seasonsolt"
+  },
+  "homepage": "https://github.com/seasonsolt/writing-skill-trainer",
+  "repository": "https://github.com/seasonsolt/writing-skill-trainer",
+  "license": "Apache-2.0",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Writing Skill Trainer",
+    "shortDescription": "Learn from your writing and train your own Writing Skill.",
+    "longDescription": "Extracts reusable writing mechanisms from authorized samples, drafts a Writing Skill, and improves it through blind paired evaluation.",
+    "developerName": "seasonsolt",
+    "category": "Productivity",
+    "capabilities": [
+      "Writing"
+    ],
+    "defaultPrompt": [
+      "Use $writing-skill-trainer to learn a reusable Writing Skill from my samples."
+    ]
+  }
+}

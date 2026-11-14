@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="320" viewBox="0 0 920 320" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" role="img" aria-label="Whose draft sounds most like the author?">
+<text x="0" y="28" font-size="22" font-weight="700" fill="#f0efec">Whose draft sounds most like the author?</text>
+<text x="0" y="54" font-size="14" fill="#c3c2b7">Times blind judges ranked each method closest to the author, out of 6. Same model, same task.</text>
+<text x="232" y="94" font-size="15" font-weight="600" fill="#f0efec">English humor essay</text>
+<text x="232" y="113" font-size="13" fill="#c3c2b7">after Mark Twain</text>
+<line x1="232" y1="124" x2="232" y2="306" stroke="#33322f" stroke-width="1"/>
+<text x="454" y="94" font-size="15" font-weight="600" fill="#f0efec">Chinese tech news</text>
+<text x="454" y="113" font-size="13" fill="#c3c2b7">after Wikinews</text>
+<line x1="454" y1="124" x2="454" y2="306" stroke="#33322f" stroke-width="1"/>
+<text x="676" y="94" font-size="15" font-weight="600" fill="#f0efec">Chinese satire fiction</text>
+<text x="676" y="113" font-size="13" fill="#c3c2b7">after Lu Xun</text>
+<line x1="676" y1="124" x2="676" y2="306" stroke="#33322f" stroke-width="1"/>
+<text x="0" y="148" font-size="14" font-weight="600" fill="#f0efec">Trained skill (this repo)</text>
+<path d="M232,136h146.0a4,4 0 0 1 4,4v8a4,4 0 0 1 -4,4h-146.0z" fill="#3987e5"/>
+<text x="390.0" y="149" font-size="14" font-weight="700" fill="#f0efec">6</text>
+<path d="M454,136h96.0a4,4 0 0 1 4,4v8a4,4 0 0 1 -4,4h-96.0z" fill="#3987e5"/>
+<text x="562.0" y="149" font-size="14" font-weight="700" fill="#f0efec">4</text>
+<path d="M676,136h146.0a4,4 0 0 1 4,4v8a4,4 0 0 1 -4,4h-146.0z" fill="#3987e5"/>
+<text x="834.0" y="149" font-size="14" font-weight="700" fill="#f0efec">6</text>
+<text x="0" y="182" font-size="14" font-weight="400" fill="#c3c2b7">stop-slop</text>
+<text x="240.0" y="183" font-size="14" font-weight="400" fill="#c3c2b7">0</text>
+<text x="462.0" y="183" font-size="14" font-weight="400" fill="#c3c2b7">0</text>
+<text x="684.0" y="183" font-size="14" font-weight="400" fill="#c3c2b7">0</text>
+<text x="0" y="216" font-size="14" font-weight="400" fill="#c3c2b7">humanizer-zh + samples</text>
+<text x="240.0" y="217" font-size="14" font-weight="400" fill="#c3c2b7">0</text>
+<path d="M454,204h21.0a4,4 0 0 1 4,4v8a4,4 0 0 1 -4,4h-21.0z" fill="#5c5b56"/>
+<text x="487.0" y="217" font-size="14" font-weight="700" fill="#f0efec">1</text>
+<text x="684.0" y="217" font-size="14" font-weight="400" fill="#c3c2b7">0</text>
+<text x="0" y="250" font-size="14" font-weight="400" fill="#c3c2b7">humanizer-zh</text>
+<text x="240.0" y="251" font-size="14" font-weight="400" fill="#c3c2b7">0</text>
+<path d="M454,238h21.0a4,4 0 0 1 4,4v8a4,4 0 0 1 -4,4h-21.0z" fill="#5c5b56"/>
+<text x="487.0" y="251" font-size="14" font-weight="700" fill="#f0efec">1</text>
+<text x="684.0" y="251" font-size="14" font-weight="400" fill="#c3c2b7">0</text>
+<text x="0" y="284" font-size="14" font-weight="400" fill="#c3c2b7">No skill</text>
+<text x="240.0" y="285" font-size="14" font-weight="400" fill="#c3c2b7">0</text>
+<text x="462.0" y="285" font-size="14" font-weight="400" fill="#c3c2b7">0</text>
+<text x="684.0" y="285" font-size="14" font-weight="400" fill="#c3c2b7">0</text>
+</svg>

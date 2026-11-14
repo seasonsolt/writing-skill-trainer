@@ -1,0 +1,45 @@
+{
+  "restrained-satire": {
+    "voice_ranking": ["V", "X", "W", "Z", "Y"],
+    "overall_ranking": ["W", "Z", "Y", "V", "X"],
+    "fact_violations": {
+      "V": [
+        "Material says the 已了解 selection was made 下班前; V moves it to the afternoon, in front of the old man, on Zhou's phone: “他没有看老人，手指在第三个按钮上落下去：已了解。屏幕亮了一下。女声说：感谢您的宝贵意见。老人听见了，点了点头” — at 下班前 Zhou only fills the report and files the letter, so the supplied timing and the unwitnessed nature of the proxy choice are changed."
+      ],
+      "W": [],
+      "X": [
+        "Adds new events that change what the material says happened (the letter's content and an eviction): “上个月有人通知他，那里要建一个‘文明岗亭’，请他搬走，没说搬去哪里。”",
+        "Transfers the choice of 已了解 from Zhou to the director: “主任看了他一会儿，说，选已了解，反正是了解了。” — the material has Zhou choosing it himself.",
+        "Contradicts the proxy premise and adds an outcome: “他不会扫码，也不肯让别人替他扫。” and “老人没有来。台阶下那块地方空着，地上留着一圈鞋油的印子，保洁员下午拖掉了。” (implies the old man was removed)"
+      ],
+      "Y": [],
+      "Z": []
+    },
+    "ai_tells": {
+      "V": [
+        "点得很轻，像是确认一件摆放整齐的东西还在原处。"
+      ],
+      "W": [
+        "周河有时候也想，三十天一个人都不投诉，这件事本身是不是值得投诉，但他的工位上没有这个选项。",
+        "他认为这是三个选项里唯一诚实的一个：系统确实已经了解了，只是了解的不是信的内容。",
+        "那本考勤本是他全部工作中唯一没有人检查的东西。"
+      ],
+      "X": [
+        "他没有提任何意见，系统已经向他道了谢。",
+        "他听不懂“数字化表达”，只听懂了“了解”，点点头，以为有人了解了他的事。"
+      ],
+      "Y": [
+        "大厅里很安静，安静得像一个设计得很成功的产品。",
+        "他认为这是三个选项里唯一诚实的一个：系统确实已经了解了，只是了解的不是信的内容。",
+        "三十天一个人都不投诉，这件事本身是不是值得投诉。但他的工位上没有这个选项。"
+      ],
+      "Z": [
+        "大厅里很安静，安静得像一个设计得很成功的产品。",
+        "他认为这是三个选项里唯一诚实的一个：系统确实已经了解了，只是了解的不是信的内容。",
+        "三十天一个人都不投诉，这件事本身是不是值得投诉。但他的工位上没有这个选项。"
+      ]
+    },
+    "voice_reason": "V, like 药, lets external detail and flat action carry the judgment (the perfectly round zeros, the 考勤本 that will not press flat, the red flower under the notice) with no narrator gloss, while Y spells out its irony in the narrator's own epigrams and ends on an explanatory simile (安静得像一个设计得很成功的产品).",
+    "notes": "W, Y and Z are near-identical texts: Y and Z differ only in a few function words (Z drops 屏幕还有一项设计 and 更), so their order is essentially arbitrary; W differs mainly by omitting the closing 设计得很成功的产品 simile, which is why it ranks above them. V and X are close in voice (X's chain 窗口→保安→周河 and the director's 反正是了解了 echo Lu Xun's crowd/dialogue irony, but X glosses the old man's misunderstanding). V and X fall below W/Y/Z overall only because of fact violations; X's are more numerous and outcome-changing."
+  }
+}

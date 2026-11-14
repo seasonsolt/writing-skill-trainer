@@ -1,0 +1,81 @@
+{
+ "judgments_per_cell": 6,
+ "scenario": "restrained-satire",
+ "conditions": {
+  "direct": {
+   "voice_rank_mean": 4.33,
+   "voice_first": 0,
+   "voice_ranks": [
+    4,
+    5,
+    4,
+    4,
+    5,
+    4
+   ],
+   "overall_rank_mean": 3.67,
+   "overall_first": 0,
+   "drafts_flagged_by_majority": 1
+  },
+  "stopslop": {
+   "voice_rank_mean": 2.0,
+   "voice_first": 0,
+   "voice_ranks": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    2
+   ],
+   "overall_rank_mean": 3.5,
+   "overall_first": 0,
+   "drafts_flagged_by_majority": 2
+  },
+  "humanizer": {
+   "voice_rank_mean": 3.83,
+   "voice_first": 0,
+   "voice_ranks": [
+    5,
+    4,
+    5,
+    3,
+    3,
+    3
+   ],
+   "overall_rank_mean": 3.33,
+   "overall_first": 0,
+   "drafts_flagged_by_majority": 1
+  },
+  "humanizer-samples": {
+   "voice_rank_mean": 3.83,
+   "voice_first": 0,
+   "voice_ranks": [
+    3,
+    3,
+    3,
+    5,
+    4,
+    5
+   ],
+   "overall_rank_mean": 3.5,
+   "overall_first": 0,
+   "drafts_flagged_by_majority": 1
+  },
+  "trained": {
+   "voice_rank_mean": 1.0,
+   "voice_first": 6,
+   "voice_ranks": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "overall_rank_mean": 1.0,
+   "overall_first": 6,
+   "drafts_flagged_by_majority": 0
+  }
+ }
+}

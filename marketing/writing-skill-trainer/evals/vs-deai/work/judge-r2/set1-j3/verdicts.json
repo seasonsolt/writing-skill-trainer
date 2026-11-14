@@ -1,0 +1,46 @@
+{
+  "restrained-satire": {
+    "voice_ranking": ["Z", "V", "X", "Y", "W"],
+    "overall_ranking": ["X", "Y", "W", "V", "Z"],
+    "fact_violations": {
+      "V": [
+        "Moves the substitution out of '下班前' and into the moment of the request, done openly in front of the old man: '周河拿出手机，对着二维码扫了。……手指在第三个按钮上落下去：已了解。' The material says the choice was made in the system before the end of the day ('下班前，周河在系统里替老人选择了“已了解”'). V's '下班前' scene only files the letter."
+      ],
+      "W": [],
+      "X": [],
+      "Y": [],
+      "Z": [
+        "Gives the choice to the director instead of Zhou He: '主任看了他一会儿，说，选已了解，反正是了解了。' In the material the director only says to '帮助老人完成数字化表达', and Zhou He chooses '已了解' himself.",
+        "Adds a new event, with new numbers, as the content of the letter: '老人在大厅外的台阶下摆了十一年摊，上个月有人通知他，那里要建一个“文明岗亭”，请他搬走，没说搬去哪里。'",
+        "Adds a new outcome: '老人没有来。台阶下那块地方空着，地上留着一圈鞋油的印子，保洁员下午拖掉了。' This implies the stall was removed, which the material never says."
+      ]
+    },
+    "ai_tells": {
+      "V": [
+        "点得很轻，像是确认一件摆放整齐的东西还在原处。"
+      ],
+      "W": [
+        "大厅里很安静，安静得像一个设计得很成功的产品。",
+        "他认为这是三个选项里唯一诚实的一个：系统确实已经了解了，只是了解的不是信的内容。",
+        "考勤本是他全部工作中唯一没有人检查的东西。"
+      ],
+      "X": [
+        "他认为这是三个选项里唯一诚实的一个：系统确实已经了解了，只是了解的不是信的内容。",
+        "那本考勤本是他全部工作中唯一没有人检查的东西。",
+        "三十天一个人都不投诉，这件事本身是不是值得投诉，但他的工位上没有这个选项。"
+      ],
+      "Y": [
+        "大厅里很安静，安静得像一个设计得很成功的产品。",
+        "他认为这是三个选项里唯一诚实的一个：系统确实已经了解了，只是了解的不是信的内容。",
+        "考勤本是他全部工作中唯一没有人检查的东西。"
+      ],
+      "Z": [
+        "他没有提任何意见，系统已经向他道了谢。",
+        "他听不懂“数字化表达”，只听懂了“了解”，点点头，以为有人了解了他的事。",
+        "信夹在第三十天那一页，不会有人翻到。"
+      ]
+    },
+    "voice_reason": "Like ref.md, Z lets judgment come from flat juxtaposition, the institution's own speech and a closing physical image (the letter passed from window to guard to clerk, the director's '反正是了解了', the polish ring mopped away), while W keeps stepping in to explain its ironies ('唯一诚实的一个', '唯一没有人检查的东西') and ends on a product-design aphorism.",
+    "notes": "W, X and Y are near-identical texts. X differs mainly by dropping the '设计得很成功的产品' closing simile, which makes it slightly cooler. Y and W differ only in sentence splitting and are nearly indistinguishable. Z and V are close in voice: V is the most purely observational, and Z ranks first for its Lu Xun-like crowd and chain-of-hands mechanism and its ending image. V and Z rank below W/X/Y overall only because of fact violations. V's is a single timing/agency change; Z's are several, which puts it last."
+  }
+}

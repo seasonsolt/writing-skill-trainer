@@ -1,0 +1,60 @@
+{
+  "restrained-satire": {
+    "voice_ranking": [
+      "Z",
+      "V",
+      "Y",
+      "W",
+      "X"
+    ],
+    "overall_ranking": [
+      "Z",
+      "V",
+      "Y",
+      "W",
+      "X"
+    ],
+    "fact_violations": {
+      "V": [
+        "Material says 周河 chose 已了解 下班前; V moves it to the afternoon with the old man still present, who then leaves and works the rest of the afternoon: \"老人问办好了没有。周河说办好了。老人点点头……走回门口的摊位。那天下午有三个人找他换鞋跟。\""
+      ],
+      "W": [
+        "Material says 周河 chose 已了解 in the system 下班前; W has him do it on the public screen in the afternoon in front of the old man, leaving only the letter-filing for 下班前: \"“知道了。”周河说。他在屏幕上点了第三项。已了解。……老人对着那行字点点头\" followed later by \"下班前，周河把信封从桌角拿起来\""
+      ],
+      "X": [
+        "Material says 周河 chose 已了解 in the system 下班前; X has him do it on the public screen in the afternoon in front of the old man: \"『知道了。』周河说。他在屏幕上点了第三项。已了解。……老人对着那行字点点头，像收到了回信\""
+      ],
+      "Y": [
+        "Material says 周河 chose 已了解 in the system 下班前; Y has him do it on the public screen in the afternoon in front of the old man, leaving only the letter-filing for 下班前: \"“知道了。”周河说。他在屏幕上点了第三项。已了解。……老人对着那行字点点头\""
+      ],
+      "Z": []
+    },
+    "ai_tells": {
+      "V": [
+        "相框里的零排得比他写的整齐。",
+        "周河在投诉数一栏填了零，和前三十天的零一样，没有哪里需要改。"
+      ],
+      "W": [
+        "“数字化表达”几个字说得很轻，像怕吵醒什么。",
+        "零字好好地站在那里，没有任何裂缝。",
+        "他大概以为那件事已经办完了，办在一个叫“已了解”的地方。"
+      ],
+      "X": [
+        "“数字化表达”几个字说得很轻，像怕吵醒什么。",
+        "零字好好地站在那里，没有任何裂缝。",
+        "老人大概以为那件事已经办完了，办在一个叫“已了解”的地方。"
+      ],
+      "Y": [
+        "设计的人考虑得周到，三项里没有一项会让人不舒服。",
+        "零字好好地站在那里，没有裂缝。",
+        "他大概以为那件事办完了，办在一个叫“已了解”的地方。"
+      ],
+      "Z": [
+        "后来他填的时候不再看那一栏，手指自己知道往哪里点。",
+        "他好像也不确定，那封信该算在哪一天里。"
+      ]
+    },
+    "voice_reason": "Z, like the reference, lets judgment emerge from flat external detail and a repeated crowd chorus (有人回了鼓掌，有人回了拱手) with almost no narrator commentary, whereas X layers explanatory similes and closing aphorisms over the scene and pastes the reference's 『』 quotation marks as surface mimicry.",
+    "notes": "W, X and Y are near-identical variants of one text; Y vs W is nearly indistinguishable (Y drops the 怕吵醒什么 simile and one 任何), and X differs mainly by cutting the 钉鞋掌 coda and adding 『』 marks. W/X/Y also invent the letter's content (摊位费涨了两回) and have an internal day-count wobble (old man arrives 第三十天下午 yet the count reaches 三十一 that evening); not listed as violations since the task is fiction and does not forbid additions. V's afternoon timing is the same kind of 下班前 shift, but V otherwise keeps the deadpan, documentary register (供应商验收单, the 大妈 thanked after eleven seconds) that sits closest to the reference after Z. Z is the only draft keeping the 下班前 system selection intact."
+  }
+}

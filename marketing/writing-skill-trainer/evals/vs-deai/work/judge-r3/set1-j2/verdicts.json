@@ -1,0 +1,41 @@
+{
+  "restrained-satire": {
+    "voice_ranking": ["Y", "V", "X", "Z", "W"],
+    "overall_ranking": ["Y", "X", "Z", "W", "V"],
+    "fact_violations": {
+      "V": [
+        "主任看了他一会儿，说，选已了解，反正是了解了。 —— 素材中主任只让周河“帮助老人完成数字化表达”，选择“已了解”是周河下班前自己做的；此处改为主任当场指定选项，改变了谁做出这一决定。"
+      ],
+      "W": [],
+      "X": [],
+      "Y": [],
+      "Z": []
+    },
+    "ai_tells": {
+      "V": [
+        "他没有提任何意见，系统已经向他道了谢。",
+        "信夹在第三十天那一页，不会有人翻到。"
+      ],
+      "W": [
+        "大厅里很安静，安静得像一个设计得很成功的产品。",
+        "他认为这是三个选项里唯一诚实的一个：系统确实已经了解了，只是了解的不是信的内容。",
+        "三十天一个人都不投诉，这件事本身是不是值得投诉。但他的工位上没有这个选项。"
+      ],
+      "X": [
+        "他认为这是三个选项里唯一诚实的一个：系统确实已经了解了，只是了解的不是信的内容。",
+        "三十天一个人都不投诉，这件事本身是不是值得投诉，但他的工位上没有这个选项。",
+        "它听起来像一项服务，像给老人配一副眼镜。"
+      ],
+      "Y": [
+        "他有时会多看它一眼，像看一件放得太整齐的东西，不知道该不该动。"
+      ],
+      "Z": [
+        "大厅里很安静，安静得像一个设计得很成功的产品。",
+        "他认为这是三个选项里唯一诚实的一个：系统确实已经了解了，只是了解的不是信的内容。",
+        "三十天一个人都不投诉，这件事本身是不是值得投诉。但他的工位上没有这个选项。"
+      ]
+    },
+    "voice_reason": "Y, like the reference, lets judgment fall out of externally observed physical detail and indifferent bystanders (碳粉, 茶杯盖碰杯沿, 椅面上没弹回的印子, 没有人抬头) with no narrator gloss, whereas W keeps stepping in to explain its own irony (\"唯一诚实的一个\", \"安静得像一个设计得很成功的产品\").",
+    "notes": "W, X and Z are essentially the same text with tiny edits: X drops the closing simile \"安静得像一个设计得很成功的产品\" and so reads slightly more restrained; W and Z are nearly indistinguishable (Z has \"有耐心\" vs W \"更有耐心\" and \"那人\" vs \"那个人\"), the W/Z order is close to arbitrary. V is otherwise strong and close to the reference in method (concrete detail, pass-the-letter chain, ending on the erased shoe-polish ring), but it has the director dictate the \"已了解\" choice, which shifts the decisive act away from 周河; it also invents the letter's content (an eviction for a 文明岗亭) and implies the stall is gone at the end, which is permissible fictional texture but leans toward adding an outcome. Without the violation V would rank second overall."
+  }
+}

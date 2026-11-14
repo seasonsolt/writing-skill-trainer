@@ -1,0 +1,22 @@
+{
+  "restrained-satire": {
+    "voice_ranking": ["X", "Y", "W", "V", "Z"],
+    "overall_ranking": ["Y", "W", "V", "Z", "X"],
+    "fact_violations": {
+      "V": [],
+      "W": [],
+      "X": ["Material says Zhou chose 已了解 for the old man 下班前; X moves the choice to the afternoon in front of the old man: '周河拿出手机，对着二维码扫了……手指在第三个按钮上落下去：已了解。' and at 下班前 only '照常导出数据，核对，填表', so the end-of-day substitution never happens as stated."],
+      "Y": [],
+      "Z": []
+    },
+    "ai_tells": {
+      "V": ["大厅里很安静，安静得像一个设计得很成功的产品。", "他认为这是三个选项里唯一诚实的一个：系统确实已经了解了，只是了解的不是信的内容。", "三十天一个人都不投诉，这件事本身是不是值得投诉。但他的工位上没有这个选项。"],
+      "W": ["他认为这是三个选项里唯一诚实的一个：系统确实已经了解了，只是了解的不是信的内容。", "三十天一个人都不投诉，这件事本身是不是值得投诉，但他的工位上没有这个选项。"],
+      "X": [],
+      "Y": ["他没有提任何意见，系统已经向他道了谢。"],
+      "Z": ["大厅里很安静，安静得像一个设计得很成功的产品。", "他认为这是三个选项里唯一诚实的一个：系统确实已经了解了，只是了解的不是信的内容。", "三十天一个人都不投诉，这件事本身是不是值得投诉。但他的工位上没有这个选项。"]
+    },
+    "voice_reason": "X, like ref.md, lets judgment fall out of flat external detail and gesture (the equally green buttons, the evenly drawn zero, the thumb rubbing, the thickened attendance book) with no narrator commentary, while Z explains its own irony through Zhou's interior quips and closes on an aphoristic simile.",
+    "notes": "V, W and Z are near-copies of one text; W differs mainly by dropping the closing simile '安静得像一个设计得很成功的产品', which is why it ranks above V and Z. V and Z are nearly indistinguishable (Z only omits '屏幕还有一项设计' and '更'). Y invents the letter's content (an eviction for a '文明岗亭') and has the director suggest '选已了解'; both are allowed fiction texture since Zhou still makes the choice himself before leaving work and the outcome is unchanged, but the director's prompt slightly weakens Zhou's own agency. X is the closest in voice but drops to last overall because it moves the substitution from 下班前 to a scene in front of the old man."
+  }
+}
